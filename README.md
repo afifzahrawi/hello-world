@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Hello my name is Afif, I'm new to GitHub
